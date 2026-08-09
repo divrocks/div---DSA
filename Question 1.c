@@ -1,3 +1,4 @@
+/*Given an array of integers, write an algoritm and a program to left rotate array by specific number of elements*/
 
 #include <stdio.h>
 
